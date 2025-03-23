@@ -28,17 +28,17 @@ Run the following command to install required libraries:
 `pip install pyttsx3 wikipedia pyautogui psutil pandas`
 
 ### Libraries which is used in this project.
-1. ctypes --> system volume control.
-2. datetime --> getting current time and day.
-3. time --> time related operations.
-4. web browser --> opening websites in the browser.
-5. os --> handling operating system.
-6. pyttsx3 --> for text to speech conversion.
-7. random --> selecting a random response.
-8. Wikipedia --> searching Wikipedia.
-9. pyautogui --> automating mouse and keyword actions.
-10. import psutil --> checking system battery percentage.
-11. import pandas as pd --> read csv file
+1. **ctypes** --> system volume control.
+2. **datetime** --> getting current time and day.
+3. **time** --> time related operations.
+4. **web browser** --> opening websites in the browser.
+5. **os** --> handling operating system.
+6. **pyttsx3** --> for text to speech conversion.
+7. **random** --> selecting a random response.
+8. **Wikipedia** --> searching Wikipedia.
+9. **pyautogui** --> automating mouse and keyword actions.
+10. **import psutil** --> checking system battery percentage.
+11. **import pandas as pd** --> read csv file
 
 ### Commands & Functionalities
 1. Run the script and Jarvis will greet you.
